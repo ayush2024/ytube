@@ -1,0 +1,29 @@
+/* .pop-up{
+    height: 300px;
+    width: 300px;
+} */
+.custom-modal-content {
+    width: 320px;
+    height: 410px;
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    text-align: center;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.custom-modal-overlay {
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 2px;
+}
+
+.btn{
+    margin-top: 30px;
+}
+

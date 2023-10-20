@@ -1,0 +1,48 @@
+.upper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 10vh;
+}
+
+.outer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.andar {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    background: radial-gradient(circle at 24.1% 68.8%, rgb(50, 50, 50) 0%, rgb(0, 0, 0) 99.4%);
+    gap: 25px;
+    text-align: center;
+    max-width: 800px;
+    width: 100%;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 20px;
+}
+
+.dateThu img {
+    width: 100%;
+}
+
+.dateThu p,
+.tvlc h3,
+.tvlc p,
+.earn p {
+    margin: 0;
+    font-size: 1.2rem;
+}
+
+.earn {
+    font-size: 1.5rem;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    background: linear-gradient(109.6deg, rgba(0, 0, 0, 0.93) 11.2%, rgb(63, 61, 61) 78.9%);
+    border-radius: 10%;
+}
+
