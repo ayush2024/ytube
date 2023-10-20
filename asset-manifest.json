@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ytube/static/css/main.5cae3b9f.css",
+    "main.js": "/ytube/static/js/main.7a2e2687.js",
+    "index.html": "/ytube/index.html",
+    "main.5cae3b9f.css.map": "/ytube/static/css/main.5cae3b9f.css.map",
+    "main.7a2e2687.js.map": "/ytube/static/js/main.7a2e2687.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5cae3b9f.css",
+    "static/js/main.7a2e2687.js"
+  ]
+}
